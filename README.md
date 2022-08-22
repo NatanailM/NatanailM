@@ -1,6 +1,6 @@
-- Hi, I’m @Natanail
-- I'm 14 years old
-- I’m currently learning Java
+- Hi, I’m Natanail
+- I'm 15 years old
+- I’m know Java and I'm currently learning python
 
 <!---
 Zippy555/Zippy555 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
