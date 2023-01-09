@@ -1,8 +1,9 @@
 - Hi, I’m Natanail
-- I'm 15 years old
-- I’m know Java and I'm currently learning python
+- I'm 16 years old
+- I’m know some Java and I know A lot of Python.
+- I know how to do Data Science, use APIs, make Selenium Bots, make charts with Matplotlibs, Plotly or Seaborn, know how to use some basic functions of NumPy and lots of other libraries
 
 <!---
-Zippy555/Zippy555 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+NatanailM/NatanailM is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
