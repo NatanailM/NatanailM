@@ -1,7 +1,6 @@
 - Hi, I’m Natanail
 - I'm 16 years old
 - I’m know some Java and I know A lot of Python.
-- I know how to do Data Science, use APIs, make Selenium Bots, make charts with Matplotlibs, Plotly or Seaborn, know how to use some basic functions of NumPy and lots of other libraries
 
 <!---
 NatanailM/NatanailM is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
